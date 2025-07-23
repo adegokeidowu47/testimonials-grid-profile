@@ -1,6 +1,6 @@
 # Frontend Mentor - Four card feature section solution
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -20,7 +20,11 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### The challenge
 
-- Responsiveness is a critical factor in modern web design, ensuring that websites adapt seamlessly across all screen sizes and devices. An optimal layout enhances usability and provides a consistent user experience, whether accessed on a phone, tablet, or desktop. This challenge significantly improved my understanding of responsive design principles—particularly the effective use of CSS Grid to structure layouts. It was a valuable learning experience that strengthened my ability to build flexible and visually balanced websites.
+Responsiveness is a crucial aspect of modern web design, ensuring that websites adjust freely to various screen sizes and devices. A well-optimized responsive layout not only enhances usability but also delivers a consistent and engaging user experience across smartphones, tablets, and desktops.
+
+Working through this challenge significantly deepened my understanding of responsive design principles, especially the strategic application of CSS Grid for creating adaptable and structured layouts. I also gained insights into the importance of flexible units, media queries, and mobile-first design strategies.
+
+This experience was both practical and rewarding, sharpening my ability to craft visually balanced, accessible, and user-friendly interfaces that perform effectively in today’s multi-device world.
 
 ### Screenshot
 - Screenshot of large screen final design.
@@ -36,9 +40,9 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: (https://github.com/adegokeidowu47/four-card-feature-section)
+- Solution URL: (https://github.com/adegokeidowu47/testimonials-grid-profile)
 
-- Live Site URL: (https://adegokeidowu47.github.io/four-card-feature-section/)
+- Live Site URL: (https://adegokeidowu47.github.io/testimonials-grid-profile/)
 
 ## My process
 - Mark up with HTML5, How the web will look like and its contents
