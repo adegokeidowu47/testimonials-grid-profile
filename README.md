@@ -42,7 +42,7 @@ This experience was both practical and rewarding, sharpening my ability to craft
 
 - Solution URL: (https://github.com/adegokeidowu47/testimonials-grid-profile)
 
-- Live Site URL: (https://adegokeidowu47.github.io/testimonials-grid-profile/)
+- Live Site URL: (https://testimonials-grid-profile.vercel.app/)
 
 ## My process
 - Mark up with HTML5, How the web will look like and its contents
